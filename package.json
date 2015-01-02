@@ -1,0 +1,21 @@
+{
+  "name": "global-eventemitter",
+  "description": "Just a global instance for Node.js EventEmitter",
+  "version": "1.0.0",
+  "author": "Artyom Trityak <art.trityak@gmail.com>",
+  "license": "MIT",
+  "repository": "artyomtrityak/global-eventemitter",
+  "homepage": "https://github.com/artyomtrityak/global-eventemitter",
+  "keywords": [
+    "eventemitter",
+    "global"
+  ],
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "files": [
+    "LICENSE",
+    "Readme.md",
+    "index.js"
+  ]
+}
